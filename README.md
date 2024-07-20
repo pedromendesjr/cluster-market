@@ -49,17 +49,17 @@ Aqui estão as principais variáveis utilizadas na análise:
 ## Principais Análises e Resultados
 
 ### 1. Valor Total Gasto por Cluster
-![Valor Total Gasto por Cluster](https://github.com/pedromendesjr/classifier-heart/blob/main/imagens/total_gasto.png)
+![Valor Total Gasto por Cluster](https://github.com/pedromendesjr/cluster-market/blob/main/imagens/total_gasto.png?raw=true)
 
 O gráfico mostra a distribuição do valor total gasto por cluster. O Cluster 1 tem o maior gasto médio, seguido pelo Cluster 0 e, finalmente, pelo Cluster 2, que tem o menor gasto médio.
 
 ### 2. Número de Compras Realizadas por Cluster
-![Número de Compras Realizadas por Cluster](https://github.com/pedromendesjr/classifier-heart/blob/main/imagens/total_compras.png)
+![Número de Compras Realizadas por Cluster](https://github.com/pedromendesjr/cluster-market/blob/main/imagens/total_compras.png?raw=true)
 
 O gráfico mostra a distribuição do número de compras realizadas por cluster. O Cluster 1 se destaca com o maior número de compras, enquanto o Cluster 2 tem o menor número de compras realizadas.
 
 ### 3. Renda Anual por Cluster
-![Renda Anual por Cluster](https://github.com/pedromendesjr/classifier-heart/blob/main/imagens/salario_cluster.png)
+![Renda Anual por Cluster](https://github.com/pedromendesjr/cluster-market/blob/main/imagens/salario_cluster.png?raw=true)
 
 O gráfico mostra a distribuição da renda anual por cluster. O Cluster 1 possui a maior renda média, o que pode explicar os altos gastos e número de compras, enquanto o Cluster 2 tem a menor renda média.
 
